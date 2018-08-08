@@ -1,0 +1,45 @@
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.Model\bin\Debug\netstandard1.6\ImageGallery.Model.deps.json
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.Model\bin\Debug\netstandard1.6\ImageGallery.Model.dll
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.Model\bin\Debug\netstandard1.6\ImageGallery.Model.pdb
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.csprojAssemblyReference.cache
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.csproj.CoreCompileInputs.cache
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.AssemblyInfoInputs.cache
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.AssemblyInfo.cs
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.dll
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.pdb
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.Model\bin\Debug\netstandard1.6\ImageGallery.Model.deps.json
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.Model\bin\Debug\netstandard1.6\ImageGallery.Model.dll
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.Model\bin\Debug\netstandard1.6\ImageGallery.Model.pdb
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.csprojAssemblyReference.cache
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.csproj.CoreCompileInputs.cache
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.AssemblyInfoInputs.cache
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.AssemblyInfo.cs
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.dll
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.pdb
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.Model\bin\Debug\netstandard1.6\ImageGallery.Model.deps.json
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.Model\bin\Debug\netstandard1.6\ImageGallery.Model.dll
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.Model\bin\Debug\netstandard1.6\ImageGallery.Model.pdb
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.csprojAssemblyReference.cache
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.csproj.CoreCompileInputs.cache
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.AssemblyInfoInputs.cache
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.AssemblyInfo.cs
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.dll
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.pdb
+D:\start-end\start-end\src\ImageGallery.Model\bin\Debug\netstandard1.6\ImageGallery.Model.deps.json
+D:\start-end\start-end\src\ImageGallery.Model\bin\Debug\netstandard1.6\ImageGallery.Model.dll
+D:\start-end\start-end\src\ImageGallery.Model\bin\Debug\netstandard1.6\ImageGallery.Model.pdb
+D:\start-end\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.csprojAssemblyReference.cache
+D:\start-end\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.csproj.CoreCompileInputs.cache
+D:\start-end\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.AssemblyInfoInputs.cache
+D:\start-end\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.AssemblyInfo.cs
+D:\start-end\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.dll
+D:\start-end\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.pdb
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.Model\bin\Debug\netstandard1.6\ImageGallery.Model.deps.json
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.Model\bin\Debug\netstandard1.6\ImageGallery.Model.dll
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.Model\bin\Debug\netstandard1.6\ImageGallery.Model.pdb
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.csprojAssemblyReference.cache
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.csproj.CoreCompileInputs.cache
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.AssemblyInfoInputs.cache
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.AssemblyInfo.cs
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.dll
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.pdb

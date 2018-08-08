@@ -1,0 +1,70 @@
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csprojAssemblyReference.cache
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csproj.CoreCompileInputs.cache
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.AssemblyInfoInputs.cache
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.AssemblyInfo.cs
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.deps.json
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.runtimeconfig.json
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.runtimeconfig.dev.json
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.dll
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.pdb
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.Model.dll
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.Model.pdb
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csproj.CopyComplete
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.dll
+D:\Vatan\Test\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.pdb
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.deps.json
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.runtimeconfig.json
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.runtimeconfig.dev.json
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.dll
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.pdb
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.Model.dll
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.Model.pdb
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csprojAssemblyReference.cache
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csproj.CoreCompileInputs.cache
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.AssemblyInfoInputs.cache
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.AssemblyInfo.cs
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csproj.CopyComplete
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.dll
+D:\Do Not Touch - Read Only Project Kevin\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.pdb
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.deps.json
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.runtimeconfig.json
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.runtimeconfig.dev.json
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.dll
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.pdb
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.Model.dll
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.Model.pdb
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csprojAssemblyReference.cache
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csproj.CoreCompileInputs.cache
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.AssemblyInfoInputs.cache
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.AssemblyInfo.cs
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csproj.CopyComplete
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.dll
+D:\Vatan\Kevin Dockx\02\demos\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.pdb
+D:\start-end\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.deps.json
+D:\start-end\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.runtimeconfig.json
+D:\start-end\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.runtimeconfig.dev.json
+D:\start-end\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.dll
+D:\start-end\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.pdb
+D:\start-end\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.Model.dll
+D:\start-end\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.Model.pdb
+D:\start-end\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csprojAssemblyReference.cache
+D:\start-end\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csproj.CoreCompileInputs.cache
+D:\start-end\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.AssemblyInfoInputs.cache
+D:\start-end\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.AssemblyInfo.cs
+D:\start-end\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csproj.CopyComplete
+D:\start-end\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.dll
+D:\start-end\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.pdb
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.deps.json
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.runtimeconfig.json
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.runtimeconfig.dev.json
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.dll
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.pdb
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.Model.dll
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.Model.pdb
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csprojAssemblyReference.cache
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csproj.CoreCompileInputs.cache
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.AssemblyInfoInputs.cache
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.AssemblyInfo.cs
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csproj.CopyComplete
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.dll
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.pdb

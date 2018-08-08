@@ -1,0 +1,33 @@
+D:\Vatan\Kevin Dockx\02\demos\start-end\Marvin.IDP\bin\Debug\netcoreapp2.0\Marvin.IDP.deps.json
+D:\Vatan\Kevin Dockx\02\demos\start-end\Marvin.IDP\bin\Debug\netcoreapp2.0\Marvin.IDP.runtimeconfig.json
+D:\Vatan\Kevin Dockx\02\demos\start-end\Marvin.IDP\bin\Debug\netcoreapp2.0\Marvin.IDP.runtimeconfig.dev.json
+D:\Vatan\Kevin Dockx\02\demos\start-end\Marvin.IDP\bin\Debug\netcoreapp2.0\Marvin.IDP.dll
+D:\Vatan\Kevin Dockx\02\demos\start-end\Marvin.IDP\obj\Debug\netcoreapp2.0\Marvin.IDP.csprojAssemblyReference.cache
+D:\Vatan\Kevin Dockx\02\demos\start-end\Marvin.IDP\obj\Debug\netcoreapp2.0\Marvin.IDP.csproj.CoreCompileInputs.cache
+D:\Vatan\Kevin Dockx\02\demos\start-end\Marvin.IDP\obj\Debug\netcoreapp2.0\Marvin.IDP.AssemblyInfoInputs.cache
+D:\Vatan\Kevin Dockx\02\demos\start-end\Marvin.IDP\obj\Debug\netcoreapp2.0\Marvin.IDP.AssemblyInfo.cs
+D:\Vatan\Kevin Dockx\02\demos\start-end\Marvin.IDP\bin\Debug\netcoreapp2.0\Marvin.IDP.pdb
+D:\Vatan\Kevin Dockx\02\demos\start-end\Marvin.IDP\obj\Debug\netcoreapp2.0\Marvin.IDP.dll
+D:\Vatan\Kevin Dockx\02\demos\start-end\Marvin.IDP\obj\Debug\netcoreapp2.0\Marvin.IDP.pdb
+D:\start-end\start-end\Marvin.IDP\bin\Debug\netcoreapp2.0\Marvin.IDP.deps.json
+D:\start-end\start-end\Marvin.IDP\bin\Debug\netcoreapp2.0\Marvin.IDP.runtimeconfig.json
+D:\start-end\start-end\Marvin.IDP\bin\Debug\netcoreapp2.0\Marvin.IDP.runtimeconfig.dev.json
+D:\start-end\start-end\Marvin.IDP\bin\Debug\netcoreapp2.0\Marvin.IDP.dll
+D:\start-end\start-end\Marvin.IDP\bin\Debug\netcoreapp2.0\Marvin.IDP.pdb
+D:\start-end\start-end\Marvin.IDP\obj\Debug\netcoreapp2.0\Marvin.IDP.csprojAssemblyReference.cache
+D:\start-end\start-end\Marvin.IDP\obj\Debug\netcoreapp2.0\Marvin.IDP.csproj.CoreCompileInputs.cache
+D:\start-end\start-end\Marvin.IDP\obj\Debug\netcoreapp2.0\Marvin.IDP.AssemblyInfoInputs.cache
+D:\start-end\start-end\Marvin.IDP\obj\Debug\netcoreapp2.0\Marvin.IDP.AssemblyInfo.cs
+D:\start-end\start-end\Marvin.IDP\obj\Debug\netcoreapp2.0\Marvin.IDP.dll
+D:\start-end\start-end\Marvin.IDP\obj\Debug\netcoreapp2.0\Marvin.IDP.pdb
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\Marvin.IDP\bin\Debug\netcoreapp2.0\Marvin.IDP.deps.json
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\Marvin.IDP\bin\Debug\netcoreapp2.0\Marvin.IDP.runtimeconfig.json
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\Marvin.IDP\bin\Debug\netcoreapp2.0\Marvin.IDP.runtimeconfig.dev.json
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\Marvin.IDP\bin\Debug\netcoreapp2.0\Marvin.IDP.dll
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\Marvin.IDP\bin\Debug\netcoreapp2.0\Marvin.IDP.pdb
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\Marvin.IDP\obj\Debug\netcoreapp2.0\Marvin.IDP.csprojAssemblyReference.cache
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\Marvin.IDP\obj\Debug\netcoreapp2.0\Marvin.IDP.csproj.CoreCompileInputs.cache
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\Marvin.IDP\obj\Debug\netcoreapp2.0\Marvin.IDP.AssemblyInfoInputs.cache
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\Marvin.IDP\obj\Debug\netcoreapp2.0\Marvin.IDP.AssemblyInfo.cs
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\Marvin.IDP\obj\Debug\netcoreapp2.0\Marvin.IDP.dll
+D:\Vatan\SoniProjects\KevinAPI-master\start-end\Marvin.IDP\obj\Debug\netcoreapp2.0\Marvin.IDP.pdb
